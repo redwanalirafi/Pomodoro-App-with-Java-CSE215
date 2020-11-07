@@ -6,7 +6,7 @@ This app will help competitive programmers and students as there will be special
 
 Features:
 
-*Registration system
-*To-do list
-*Users activity check
-*Timer that follows pomodoro method.
+*Registration system  
+*To-do list  
+*Users activity check  
+*Timer that follows pomodoro method.  
